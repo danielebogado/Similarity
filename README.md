@@ -2,7 +2,7 @@
 
 By Bogado
 
-pip install jarowinkler
+pip install jarowinkler\r
 pip install rapidfuzz
 python.exe -m pip install --upgrade pip
 pip install git+https://github.com/rapidfuzz/JaroWinkler.git@main
